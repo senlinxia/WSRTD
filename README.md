@@ -1,2 +1,2 @@
 # WSRTD
-Radar Target Detection in Nonhomogeneous Sea Clutter via Weakly Supervised Learning
+This repository is the PyTorch implementation for the paper:
